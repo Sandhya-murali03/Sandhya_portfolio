@@ -40,7 +40,7 @@ const projects = [
        "A web-based room reservation system developed using Java, enabling users to book rooms, manage customer records, generate billing details, and handle check-in/check-out processes through an intuitive interface, improving operational efficiency and reducing manual workload in hotel management.",
     tech: ["HTML", "CSS", "Java","php","SQL"],
     github: "https://github.com/Sandhya-murali03/Room_Reservation_System.git",
-    demo: "https://onlinegdb.com/i6IF4B3lC",
+    demo: "https://luxurystay.free.nf/hotel-management/home.php",
   },
   {
     title: "Chatbot Application",
@@ -87,8 +87,8 @@ const projects = [
     description:
        "A user-friendly kids learning app prototype designed in Figma, featuring intuitive navigation, interactive learning modules for numbers and colors, well-structured wireframes, and child-friendly button interactions to create an engaging and accessible learning experience.",
     tech: ["UI/UX", "Figma"],
-    github: "https://github.com/Sandhya-murali03/Renewable-Performance-Monitoring-System.git",
-    demo: "https://github.com/Sandhya-murali03/Renewable-Performance-Monitoring-System.git",
+    github: "https://github.com/Sandhya-murali03/Basic-UI-color-palette.git",
+    demo: "https://www.figma.com/proto/N8feHq9EO2NFWel0XfTLtU/task-2?node-id=1-2&p=f&t=y1y4hNBPV39uaa5x-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2",
   },
   
 ];

@@ -19,8 +19,8 @@ const Resume = () => {
           </p>
           {/* EDIT: Replace /resume.pdf with your actual file in the public folder */}
           <a
-            href="/assets/Sandhya_murali_res.pdf"
-            download="Sandhya_Murali_Resume.pdf"
+            href="/assets/Sandhya_m.pdf"
+            download="Sandhya_m.pdf"
             className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-gradient-primary text-primary-foreground font-semibold shadow-glow hover:shadow-glow-strong transition-all hover:-translate-y-0.5"
           >
             <Download className="h-5 w-5" />
