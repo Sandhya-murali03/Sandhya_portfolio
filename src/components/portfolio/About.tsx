@@ -1,9 +1,9 @@
 import { Code2, Sparkles, Rocket } from "lucide-react";
 
 const stats = [
-  { icon: Code2, label: "Projects Built", value: "15+" },
-  { icon: Sparkles, label: "Technologies", value: "12+" },
-  { icon: Rocket, label: "Years Coding", value: "3+" },
+  { icon: Code2, label: "Projects Built"},
+  { icon: Sparkles, label: "Technologies"},
+  { icon: Rocket, label: "Years Coding"},
 ];
 
 const About = () => {

@@ -61,6 +61,20 @@ const certs = [
     fileUrl: "/assets/copilot.pdf",
     type: "pdf",
   },
+  {
+    title: "Cloud Computing",
+    issuer: "nasscom",
+    image: null,
+    fileUrl: "/assets/wipro cloud computing certificate.pdf",
+    type: "pdf",
+  },
+  {
+    title: "Artificial Intelligence and Machine Learning",
+    issuer: "nasscom",
+    image: null,
+    fileUrl: "/assets/wipro aiml certificate.pdf",
+    type: "pdf",
+  },
 ];
 
 const Certifications = () => {

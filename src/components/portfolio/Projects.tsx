@@ -35,6 +35,30 @@ const projects = [
     demo: "https://onlinegdb.com/i6IF4B3lC",
   },
   {
+    title: "Room Reservation System",
+    description:
+       "A web-based room reservation system developed using Java, enabling users to book rooms, manage customer records, generate billing details, and handle check-in/check-out processes through an intuitive interface, improving operational efficiency and reducing manual workload in hotel management.",
+    tech: ["HTML", "CSS", "Java","php","SQL"],
+    github: "https://github.com/Sandhya-murali03/Room_Reservation_System.git",
+    demo: "https://onlinegdb.com/i6IF4B3lC",
+  },
+  {
+    title: "Chatbot Application",
+    description:
+       "A responsive career guidance chatbot developed using HTML, CSS, and JavaScript, providing personalized career recommendations based on users' interests, skills, and academic background, along with insights into career paths, higher education options, and future-ready skills through an interactive conversational interface.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/Sandhya-murali03/chat_bot.git",
+    demo: "https://chatbot-git-main-sandhyas-projects-92ca64dd.vercel.app/",
+  },
+  {
+    title: "Quiz Application",
+    description:
+       "A responsive quiz application developed using HTML, CSS, and JavaScript, featuring multiple-choice programming and web development questions, a 15-second timer for each question, instant answer feedback, automatic score calculation, and an interactive user interface for an engaging learning experience.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/Sandhya-murali03/quiz-app.git",
+    demo: "https://quiz-app-git-main-sandhyas-projects-92ca64dd.vercel.app/",
+  },
+  {
     title: "Landing Page",
     description:
      "A modern and visually appealing landing page designed using Figma, focusing on user experience, clean layout, and responsive design principles. Created to showcase branding, product highlights, and call-to-action elements effectively.",
@@ -56,8 +80,17 @@ const projects = [
        "A user-friendly grocery shopping app prototype designed in Figma, featuring intuitive navigation, product browsing, cart functionality, and a seamless checkout experience to enhance user convenience.",
     tech: ["Power BI"],
     github: "https://github.com/Sandhya-murali03/Renewable-Performance-Monitoring-System.git",
-    demo: "#",
+    demo: "https://github.com/Sandhya-murali03/Renewable-Performance-Monitoring-System.git",
   },
+  {
+    title: "Kids Learning App",
+    description:
+       "A user-friendly kids learning app prototype designed in Figma, featuring intuitive navigation, interactive learning modules for numbers and colors, well-structured wireframes, and child-friendly button interactions to create an engaging and accessible learning experience.",
+    tech: ["UI/UX", "Figma"],
+    github: "https://github.com/Sandhya-murali03/Renewable-Performance-Monitoring-System.git",
+    demo: "https://github.com/Sandhya-murali03/Renewable-Performance-Monitoring-System.git",
+  },
+  
 ];
 
 const Projects = () => {

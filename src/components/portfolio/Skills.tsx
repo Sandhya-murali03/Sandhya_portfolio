@@ -18,7 +18,7 @@ const skillGroups = [
   },
    {
     title: "Soft Skills",
-    skills: ["Communication", "Problem Solving","Team Work", "Leadership", "Attention to Detail", "Creativity", "Adaptability", "Persistence", "Adobe Xd","Power BI"],
+    skills: ["Communication", "Problem Solving","Team Work", "Leadership", "Attention to Detail", "Creativity", "Adaptability", "Persistence"],
   },
 ];
 
